@@ -29,6 +29,11 @@ L’envoi d’un message via l’URL du navigateur sur le topic R1
 Création d’un consumer qui permet d’écouter le topic R1 pour voir les messages
 <br>
 <img width="1801" height="124" alt="image" src="https://github.com/user-attachments/assets/b5959d25-8627-4131-8bbe-d38020d15460" />
+<br>
+3. Affichage des statistiques sur le Web :
+<br>
+<img width="1034" height="772" alt="Capture d'écran 2025-10-26 204345" src="https://github.com/user-attachments/assets/f965735b-ce3a-4bc8-8280-b838c1b04dad" />
+
 
 
 
