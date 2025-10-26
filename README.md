@@ -17,7 +17,7 @@
 <br>
 => Consumer :
 <img width="1795" height="155" alt="image" src="https://github.com/user-attachments/assets/0a3fd454-365b-4bb2-b930-810b087e9ab2" />
-
+<br>
 2. Kafka via StreamBridge :
 <br>
 => Partie 1 :
